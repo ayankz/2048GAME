@@ -4,7 +4,7 @@ import {GameService} from "../../services/game.service";
 
 const colors: { [k: number]: string } = {
   2: '#73C6B6',
-  4: '#76D7C4',
+  4: '#76A7A4',
   8: '#AF7AC5',
   16: '#5F6A6A',
   32: '#CD6155',
